@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - master  # or main, depending on your default branch
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: <your-github-username>
+          output: dist/github-contribution-grid-snake.svg
+
+      - name: Upload the SVG file
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake.svg
+          path: dist/github-contribution-grid-snake.svg
