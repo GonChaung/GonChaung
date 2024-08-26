@@ -97,4 +97,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonchaung&" alt="gonchaung" /></p>
 
-![snake gif](https://github.com/GonChaung/GonChaung/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+	<img src="/github-user-contribution.svg" alter="snake"/>
+</div>
