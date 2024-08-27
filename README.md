@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thant Si Thu Naing</h1>
 <h3 align="center">A passionate backend developer from Burma.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/bcd23f1b49843dad0f8b582d95e7b30e/tumblr_n76slgtuUH1sijhkdo1_500.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonchaung&label=Profile%20views&color=0e75b6&style=flat" alt="gonchaung" /> </p>
 
-- 🌱 I’m currently learning **Spring, Data Structures and Algorithms**
+- 🌱 I’m currently learning - **Spring, Data Structures and Algorithms**
 
-- 💬 Ask me about **Java, Python, SQL**
+- 💬 Ask me about - **Java, Python, SQL**
 
-- 📫 How to reach me **thantsithu.naing@icloud.com**
+- 📫 How to reach me - **thantsithu.naing@icloud.com**
 
-- ⚡ Fun fact **I think I'm not stupid**
+- ⚡ Fun fact - **I think I'm not stupid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
