@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonchaung&" alt="gonchaung" /></p>
 <div align="center">
-	<img src="/github-user-contribution.svg" alter="snake"/>
+	<img src="/thaigonchaunggithub.svg" alter="snake"/>
 </div>
 
