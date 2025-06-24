@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,SQL and Spring**
 
-- 📫 How to reach me **gonChaung.dev@gmail.com**
+- 📫 How to reach me **lambda.ghost@gonchaung.dev**
 
 - ⚡ Fun fact **I think I'm not stupid**
 
